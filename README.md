@@ -10,6 +10,26 @@ The goal was to create a modern, fast and useful website for a real local busine
 
 The site had to help customers understand the business, explore representative products, learn about the origin of the meat, prepare for a visit and discover practical information before coming to the store.
 
+## Screenshots
+
+### Home
+
+![Carnicería El Gauchito home page](screenshots/home.png)
+
+### Products
+
+![Carnicería El Gauchito products page](screenshots/productos.png)
+
+![Carnicería El Gauchito product catalog](screenshots/productos-2.png)
+
+### Asado Calculator
+
+![Carnicería El Gauchito asado calculator](screenshots/calculadora-asado.png)
+
+### History
+
+![Carnicería El Gauchito history page](screenshots/historia.png)
+
 ## My Role
 
 I handled the project end to end:
